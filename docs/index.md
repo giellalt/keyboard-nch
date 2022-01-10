@@ -1,10 +1,10 @@
 # Documentation for the Central Huasteca Nahuatl keyboards
 
 
-## Layouts
+# Layouts
 
 -   [Layout overview](layout.html)
 
-## Other information
+# Other information
 
 Add text and links as necessary.
