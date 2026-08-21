@@ -2,7 +2,7 @@
 
 ## Layouts
 
-<iframe src="https://keyboard.giellalt.org/embed?kbd=nch&interactive=false"></iframe>
+<iframe src="https://keyboard.giellalt.org/embed?kbd=nch&interactive=false" style="height: 430px;"></iframe>
 
 ## Other information
 
